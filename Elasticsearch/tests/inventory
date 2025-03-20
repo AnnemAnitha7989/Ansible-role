@@ -1,0 +1,2 @@
+server1 ansible_host=18.221.252.54 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/key_01.pem
+
